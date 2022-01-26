@@ -1,0 +1,15 @@
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.deps.json
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\ref\DependencyInjectionOdev.Cinema.Entities.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.pdb
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\DependencyInjectionOdev.Core.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\bin\Debug\net5.0\DependencyInjectionOdev.Core.pdb
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.csproj.CopyComplete
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\ref\DependencyInjectionOdev.Cinema.Entities.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Cinema.Entities\obj\Debug\net5.0\DependencyInjectionOdev.Cinema.Entities.pdb

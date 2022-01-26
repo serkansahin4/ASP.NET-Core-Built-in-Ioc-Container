@@ -1,0 +1,12 @@
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\bin\Debug\net5.0\DependencyInjectionOdev.Core.deps.json
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\bin\Debug\net5.0\DependencyInjectionOdev.Core.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\bin\Debug\net5.0\ref\DependencyInjectionOdev.Core.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\bin\Debug\net5.0\DependencyInjectionOdev.Core.pdb
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\ref\DependencyInjectionOdev.Core.dll
+C:\Users\Serkan\Desktop\DependencyInjectionOdev.Cinema\DependencyInjectionOdev.Core\obj\Debug\net5.0\DependencyInjectionOdev.Core.pdb
