@@ -1,4 +1,13 @@
 This project is Example of DependencyInjection Controls.
 
+ASP.NET Core Contains Built-in Ioc Container.
+Use of this IocContainer, use of with ConfigureService Method in Startup.cs is taking place.
+
+Use Of
+ConfigureService method in Startup.Cs
+{
+services.AddSingleton<IxxxService>(()=>new xxxManager(new xxxDal()));
+}
+
 IocContainer Description
 IocContainer is Dependency Control Tools.
