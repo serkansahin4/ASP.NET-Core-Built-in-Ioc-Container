@@ -7,6 +7,8 @@ Use Of
 ConfigureService method in Startup.Cs
 {
 services.AddSingleton<IxxxService>(()=>new xxxManager(new xxxDal()));
+services.AddTransient<IxxxService>(()=>new xxxManager(new xxxDal()));
+services.Scoped<IxxxService>(()=>new xxxManager(new xxxDal()));
 }
 
 IocContainer Description
