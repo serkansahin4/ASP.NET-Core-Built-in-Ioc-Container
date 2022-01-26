@@ -6,9 +6,9 @@ Use of this IocContainer, use of with ConfigureService Method in Startup.cs is t
 Use Of
 ConfigureService method in Startup.Cs
 {
-services.AddSingleton<IxxxService>(()=>new xxxManager(new xxxDal()));
-services.AddTransient<IxxxService>(()=>new xxxManager(new xxxDal()));
-services.Scoped<IxxxService>(()=>new xxxManager(new xxxDal()));
+services.AddSingleton<IxxxService>(()=>new xxxManager(new xxxDal())); (One object for all Request)
+services.AddTransient<IxxxService>(()=>new xxxManager(new xxxDal())); (new object for all Request)
+services.Scoped<IxxxService>(()=>new xxxManager(new xxxDal()));       (One object for all Request PipeLine)
 }
 
 IocContainer Description
